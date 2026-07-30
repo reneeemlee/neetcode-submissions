@@ -15,7 +15,7 @@ This repository tracks my technical interview preparation, algorithm practice, a
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 Solutions are organized by topic and problem slug, with incremental versioning for multiple attempts:
 
